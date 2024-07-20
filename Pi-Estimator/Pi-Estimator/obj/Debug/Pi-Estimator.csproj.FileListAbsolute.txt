@@ -1,0 +1,7 @@
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\bin\Debug\Pi-Estimator.exe.config
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\bin\Debug\Pi-Estimator.exe
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\bin\Debug\Pi-Estimator.pdb
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\obj\Debug\Pi-Estimator.csproj.AssemblyReference.cache
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\obj\Debug\Pi-Estimator.csproj.CoreCompileInputs.cache
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\obj\Debug\Pi-Estimator.exe
+E:\CSharp_Repo\Pi-Estimator\Pi-Estimator\obj\Debug\Pi-Estimator.pdb
